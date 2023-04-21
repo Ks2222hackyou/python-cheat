@@ -1,0 +1,1 @@
+Script is working only in Visual Studio Code
